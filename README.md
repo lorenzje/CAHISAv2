@@ -1,6 +1,6 @@
 # CAHISAv2
 
-Product Description: Cincinnati Area Household Income Survey Application
+Cincinnati Area Household Income Survey Application (CAHISA)
 The Cincinnati Area Household Income Survey Application, developed in C, is a two-part program designed to collect, validate, and analyze household income data for select counties in Ohio and Kentucky.
 
 Technical Operation
