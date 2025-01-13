@@ -13,8 +13,7 @@ The Cincinnati Area Household Income Survey Application (CAHISA), developed in C
 ## Author
 
 - **Name:** Jack Lorenz  
-- **Course:** C Programming  
-- **Abstract:** Final Project  
+
 
 ---
 
